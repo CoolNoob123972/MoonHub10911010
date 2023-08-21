@@ -5,9 +5,9 @@ local Window = OrionLib:MakeWindow({Name = " Moon Hub (Still In Dev) | Version: 
 
 OrionLib:MakeNotification({
 	Name = "Thanks For Using My Script Hub!!!",
-	Content = "Script Executed Please Wait.",
+	Content = "Script Hub Executed.",
 	Image = "rbxassetid://4483345998",
-	Time = 5
+	Time = 2
 })
 
 local HomeTab = Window:MakeTab({
